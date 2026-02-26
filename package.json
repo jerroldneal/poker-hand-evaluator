@@ -1,0 +1,11 @@
+{
+  "name": "poker-hand-evaluator",
+  "version": "1.0.0",
+  "description": "7-card Texas Hold'em hand evaluator — pre-flop strength, win equity, hand comparison",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["poker", "holdem", "hand-evaluator", "texas-holdem", "equity"],
+  "license": "ISC"
+}
