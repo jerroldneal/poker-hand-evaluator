@@ -1,5 +1,7 @@
 # poker-hand-evaluator
 
+> **Repo**: [`jerroldneal/poker-hand-evaluator`](https://github.com/jerroldneal/poker-hand-evaluator) · **Submodule of**: [`cnr-ws-server`](https://github.com/jerroldneal/cnr-ws-server) at `submodules/poker-hand-evaluator/`
+
 7-card Texas Hold'em hand evaluator with pre-flop strength scoring, win equity estimation, and hand comparison.
 
 ## Usage
